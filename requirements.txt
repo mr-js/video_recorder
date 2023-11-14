@@ -1,0 +1,5 @@
+ffmpeg-python==0.2.0
+google_api_python_client==2.107.0
+google_auth_oauthlib==1.1.0
+numpy==1.25.2
+protobuf==4.25.0
